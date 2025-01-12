@@ -1,2 +1,2 @@
-# ResumeTemplate
-Website Template for a Resume you can use
+# ResumeGuide
+Website Guidance for a Resume you can use
